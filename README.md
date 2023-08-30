@@ -1,1 +1,1 @@
-# Using Multinomial Naive Bayes Classification to classify whether a message is a spam or not
+# Using Multinomial Naive Bayes Classifier to classify whether a message is a spam or not
